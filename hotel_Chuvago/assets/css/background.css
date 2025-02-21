@@ -1,0 +1,28 @@
+ .background-banner {
+   width: 100%;
+   height: 100%;
+   background-image: url("../img/banner/banner4.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+ }
+
+ .background-banner-search {
+   width: 100%;
+   height: 80vh;
+   background-image: url("../img/banner/banner1.jpg");
+   background-size: cover;
+   background-position: top;
+   background-repeat: no-repeat;
+ }
+
+ .card-img-default {
+   width: 100%;
+   height: 100%;
+   object-fit: center;
+ }
+
+ .card-login-container {
+   width: 550px;
+
+ }

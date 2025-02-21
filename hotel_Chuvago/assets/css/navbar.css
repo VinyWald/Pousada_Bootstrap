@@ -1,0 +1,6 @@
+/*  Background navbar*/
+
+.bg-orange{
+    color:var(--bg-orange);
+    background-color: var(--bg-orange);
+}
